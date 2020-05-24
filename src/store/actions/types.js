@@ -1,0 +1,16 @@
+export const GET_ALL_HOTELS = 'GET_ALL_HOTELS';
+export const GET_ALL_HOTELS_ERR = 'GET_ALL_HOTELS_ERR';
+export const SET_CURRENT = 'SET_CURRENT';
+export const SET_CURRENT_ERR = 'SET_CURRENT_ERR';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+
+export const SIGNUP_USER = 'SIGNUP_USER';
+export const SIGNUP_USER_ERR = 'SIGNUP_USER_ERR';
+
+export const LOGIN_USER = 'LOGIN_USER';
+export const LOGIN_USER_ERR = 'LOGIN_USER_ERR';
+
+export const SET_AUTHENTICATED = 'SET_AUTHENTICATED';
+export const SET_UNAUTHENTICATED = 'SET_UNAUTHENTICATED';
+
+export const SET_LOADING = 'SET_LOADING';
